@@ -4,6 +4,7 @@
 }
 
 header {
+    min-width: 205vh;
     background-color: rgb(238, 73, 87);
     display: grid;
     grid-template-columns: 10% 20% 70%;
@@ -128,6 +129,7 @@ h2 {
 }
 
 .masInfo {
+    min-width: 820px;
     margin-left: 10%;
     margin-bottom: 5%;
     display: grid;
@@ -255,6 +257,7 @@ button {
 
 /* PIE ----*/
 footer {
+    min-width: 205vh;
     background-color: rgb(238, 73, 87);
     display: grid;
     grid-template-columns: 40% 40% 20%;
